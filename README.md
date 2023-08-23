@@ -1,1 +1,1 @@
-# home_decor
+# homedecor
